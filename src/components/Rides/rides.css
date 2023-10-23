@@ -1,0 +1,11 @@
+.bt1 {
+  background: rgb(255, 253, 251);
+  background: linear-gradient(
+    267deg,
+    rgba(255, 253, 251, 1) 0%,
+    rgba(225, 210, 250, 1) 0%,
+    rgba(182, 149, 249, 1) 13%,
+    rgba(78, 0, 246, 1) 100%,
+    rgba(184, 247, 181, 1) 100%
+  );
+}
